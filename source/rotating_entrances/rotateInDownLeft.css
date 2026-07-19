@@ -1,7 +1,7 @@
 @keyframes rotateInDownLeft {
   from {
     transform: rotate3d(0, 0, 1, -45deg);
-    opacity: 0;
+    opacity: 0.0001;
   }
 
   to {

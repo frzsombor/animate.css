@@ -1,6 +1,6 @@
 @keyframes jackInTheBox {
   from {
-    opacity: 0;
+    opacity: 0.0001;
     transform: scale(0.1) rotate(30deg);
     transform-origin: center bottom;
   }

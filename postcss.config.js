@@ -9,7 +9,8 @@ const header = `
  * Version - ${version}
  * Licensed under the Hippocratic License 2.1 - http://firstdonoharm.dev
  *
- * Copyright (c) ${new Date().getFullYear()} ${author.name}
+ * Copyright (c) 2022 ${author.name}
+ * Updated at ${new Date().getFullYear()} - by frzsombor
  */
 
 `;
